@@ -1,0 +1,41 @@
+<project basedir="." default="run" name="Ant file for TestNG">
+	<property name ="build.dir" value="${basedir}/build"/>
+	<property name="lib.dir" value="${basedir}/lib"/>
+	<property name="src.dir" value="${basedir}/src"/>
+	<property name="name" value="value"/>
+
+	<target name="setClassPath">
+	    <path id="classpath_jars">
+	        <path id="${basedir}/"/>
+	        <fileset dir="${lib.dir}" includes="*.jar"/> 
+	    </path>
+	<pathconvert pathsep=":" property="test.classpath" refid="classpath_jars"/>
+	</target>
+
+	<target name="loadTestNG" depends="setClassPath">
+	    <taskdef resource="testngtasks" classpath="${test.classpath}"/>
+	</target>
+
+	<target name="init">
+	    <mkdir dir="${build.dir}"/>
+	</target>
+
+	<target name="clean">
+	    <echo message="deleting existing build directory"/>
+	    <delete dir="${build.dir}"/>
+	</target>
+
+	<target name="compile" depends="clean, init, setClassPath, loadTestNG">
+	    <echo message="classpath: ${test.classpath}"/>
+	    <echo message="compiling..."/>
+	    <javac destdir="${build.dir}" srcdir="${src.dir}" classpath="${test.classpath}"  encoding="cp1252"/>
+	</target>
+	
+	<target name="run" depends="compile">
+	    <testng classpath ="${test.classpath}:${build.dir}">   	
+	    <xmlfileset dir="${basedir}" includes="testng.xml"/>    	
+	    </testng>
+
+	</target>
+
+	</project>
