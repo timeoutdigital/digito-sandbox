@@ -1,0 +1,377 @@
+20140801 151656.284 [07740] CLI Starting up; pid 7740
+20140801 151656.291 [07740] CLI Sauce Connect 4.3, build 1285 bd6579a
+20140801 151656.291 [07740] CLI Command line arguments: bin\sc -u waynepeacock -k ****
+20140801 151656.298 [07740] CLI Using no proxy for connecting to Sauce Labs REST API.
+20140801 151729.080 [07740] CLI performing GET https://saucelabs.com/versions.json failed: Timeout was reached.
+20140801 151730.085 [07740] CLI Started scproxy on port 63203.
+20140801 151730.091 [07740] CLI Please wait for 'you may start your tests' to start your tests.
+20140801 151730.096 [07740] CLI Starting secure remote tunnel VM...
+20140801 151735.712 [07740] CLI Secure remote tunnel VM provisioned.
+20140801 151735.716 [07740] CLI Tunnel ID: df518908a4f7446faf04da1e6c6acd75
+20140801 151736.424 [07740] CLI Secure remote tunnel VM is now: booting
+20140801 151755.561 [07740] CLI Secure remote tunnel VM is now: running
+20140801 151755.566 [07740] CLI Remote tunnel host is: maki76171.miso.saucelabs.com
+20140801 151755.570 [07740] CLI Using no proxy for connecting to tunnel VM.
+20140801 151755.577 [07740] CLI Starting Selenium listener...
+20140801 151755.582 [07740] CLI Establishing secure TLS connection to tunnel...
+20140801 151755.624 [07740] CLI Selenium listener started on port 4445.
+20140801 151802.024 [07740] CLI Sauce Connect is up, you may start your tests.
+20140801 151802.027 [07740] CLI Connection established.
+20140801 151842.793 [07740] PROXY 127.0.0.1:63232 <- s7.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151842.807 [07740] PROXY 127.0.0.1:63231 <- s.btstatic.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151842.887 [07740] PROXY 127.0.0.1:63237 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151843.636 [07740] PROXY 127.0.0.1:63244 <- s7.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151844.166 [07740] PROXY 127.0.0.1:63243 <- s.btstatic.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151844.179 [07740] PROXY 127.0.0.1:63233 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151845.508 [07740] PROXY 127.0.0.1:63234 <- media.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151846.038 [07740] PROXY 127.0.0.1:63247 <- media.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151850.079 [07740] PROXY 127.0.0.1:63249 <- media.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151850.220 [07740] PROXY 127.0.0.1:63259 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151852.809 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151852.814 [07740] CLI Disconnected - you are now offline.
+20140801 151853.823 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151854.837 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151855.851 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151856.865 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151857.880 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151858.894 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151859.907 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151900.921 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151901.936 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151902.950 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151903.964 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151904.978 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151905.992 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151907.007 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151907.380 [07740] PROXY 127.0.0.1:63294 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151907.910 [07740] PROXY 127.0.0.1:63229 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151908.020 [07740] KGP warning: no keepalive ack for > 5s
+20140801 151908.784 [07740] PROXY 127.0.0.1:63302 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151908.799 [07740] PROXY 127.0.0.1:63305 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151908.955 [07740] PROXY 127.0.0.1:63254 <- survey.122.2o7.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151909.204 [07740] CLI Connection established.
+20140801 151909.314 [07740] PROXY 127.0.0.1:63299 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151909.814 [07740] PROXY 127.0.0.1:63306 <- timeoutlondonbanner.mcscdel1.biggroup.co.uk:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151909.854 [07740] PROXY 127.0.0.1:63304 <- www.facebook.com:80 connection error: Unknown error
+20140801 151910.344 [07740] PROXY 127.0.0.1:63318 <- cdn.syndication.twimg.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151912.092 [07740] PROXY 127.0.0.1:63316 <- www.facebook.com:80 connection error: Unknown error
+20140801 151912.684 [07740] PROXY 127.0.0.1:63328 <- cdn.syndication.twimg.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151913.214 [07740] PROXY 127.0.0.1:63255 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151914.415 [07740] PROXY 127.0.0.1:63324 <- gscounters.us1.gigya.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151914.945 [07740] PROXY 127.0.0.1:63321 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151916.178 [07740] PROXY 127.0.0.1:63331 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151916.240 [07740] PROXY 127.0.0.1:63336 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 151917.909 [07740] PROXY 127.0.0.1:63343 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 151918.050 [07740] PROXY 127.0.0.1:63346 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 151918.861 [07740] PROXY 127.0.0.1:63352 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151919.391 [07740] PROXY 127.0.0.1:63347 <- ad.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151919.404 [07740] PROXY 127.0.0.1:63344 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151919.672 [07740] PROXY 127.0.0.1:63300 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151951.122 [07740] PROXY 127.0.0.1:63345 <- ct1.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151952.651 [07740] PROXY 127.0.0.1:63337 <- platform.twitter.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151953.618 [07740] PROXY 127.0.0.1:63374 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151953.961 [07740] PROXY 127.0.0.1:63371 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151954.476 [07740] PROXY 127.0.0.1:63386 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151954.757 [07740] PROXY 127.0.0.1:63377 <- ib.adnxs.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151955.287 [07740] PROXY 127.0.0.1:63389 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151956.379 [07740] PROXY 127.0.0.1:63393 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151956.896 [07740] PROXY 127.0.0.1:63378 <- metrics.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151957.255 [07740] PROXY 127.0.0.1:63376 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 151958.096 [07740] PROXY 127.0.0.1:63395 <- su.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152005.131 [07740] PROXY 127.0.0.1:63380 <- s.btstatic.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152005.256 [07740] PROXY 127.0.0.1:63411 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152005.661 [07740] PROXY 127.0.0.1:63301 <- su.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152005.817 [07740] PROXY 127.0.0.1:63420 <- s.btstatic.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152006.332 [07740] PROXY 127.0.0.1:63402 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152009.873 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152010.265 [07740] CLI Disconnected - you are now offline.
+20140801 152010.888 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152011.902 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152012.915 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152013.930 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152014.944 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152015.958 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152016.973 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152017.986 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152019.001 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152020.015 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152021.028 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152022.042 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152023.056 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152024.070 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152025.224 [07740] PROXY 127.0.0.1:63427 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152025.522 [07740] CLI Connection established.
+20140801 152026.113 [07740] PROXY 127.0.0.1:63431 <- ad.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152026.253 [07740] PROXY 127.0.0.1:63433 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152027.345 [07740] PROXY 127.0.0.1:63430 <- timeoutlondonbanner.mcscdel1.biggroup.co.uk:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152027.860 [07740] PROXY 127.0.0.1:63436 <- ad.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152028.806 [07740] PROXY 127.0.0.1:63441 <- www.facebook.com:80 connection error: Unknown error
+20140801 152029.800 [07740] PROXY 127.0.0.1:63446 <- cdn.syndication.twimg.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152030.325 [07740] PROXY 127.0.0.1:63447 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152030.340 [07740] PROXY 127.0.0.1:63442 <- ct1.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152030.871 [07740] PROXY 127.0.0.1:63456 <- profile.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152031.183 [07740] PROXY 127.0.0.1:63457 <- ct1.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152031.651 [07740] PROXY 127.0.0.1:63465 <- profile.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152031.698 [07740] PROXY 127.0.0.1:63453 <- profile.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152031.932 [07740] PROXY 127.0.0.1:63429 <- www.google.com:80 connection error: Unknown error
+20140801 152032.666 [07740] PROXY 127.0.0.1:63475 <- profile.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152032.666 [07740] PROXY 127.0.0.1:63463 <- www.google.com:80 connection error: Unknown error
+20140801 152033.680 [07740] PROXY 127.0.0.1:63480 <- decor.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152034.194 [07740] PROXY 127.0.0.1:63454 <- profile.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152034.902 [07740] PROXY 127.0.0.1:63488 <- edge.quantserve.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152035.286 [07740] PROXY 127.0.0.1:63458 <- static.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152035.427 [07740] PROXY 127.0.0.1:63445 <- profile.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152035.427 [07740] PROXY 127.0.0.1:63464 <- platform.twitter.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152035.440 [07740] PROXY 127.0.0.1:63450 <- decor.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152035.465 [07740] PROXY 127.0.0.1:63461 <- profile.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152035.973 [07740] PROXY 127.0.0.1:63483 <- decor.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152036.144 [07740] PROXY 127.0.0.1:63500 <- platform.twitter.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152036.503 [07740] PROXY 127.0.0.1:63501 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152037.081 [07740] PROXY 127.0.0.1:63468 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152037.095 [07740] PROXY 127.0.0.1:63502 <- static.media.magnify.net.s3.amazonaws.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152037.611 [07740] PROXY 127.0.0.1:63498 <- s3.amazonaws.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152139.714 [07740] PROXY 127.0.0.1:63499 <- ct1.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152141.898 [07740] PROXY 127.0.0.1:63511 <- m.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152142.709 [07740] PROXY 127.0.0.1:63533 <- m.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152206.454 [07740] PROXY 127.0.0.1:63548 <- s.btstatic.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152206.467 [07740] PROXY 127.0.0.1:63551 <- zor.livefyre.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152206.593 [07740] PROXY 127.0.0.1:63553 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152206.983 [07740] PROXY 127.0.0.1:63531 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152209.323 [07740] PROXY 127.0.0.1:63554 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152210.913 [07740] PROXY 127.0.0.1:63565 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152211.429 [07740] PROXY 127.0.0.1:63552 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152211.944 [07740] PROXY 127.0.0.1:63567 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152212.521 [07740] PROXY 127.0.0.1:63573 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152213.036 [07740] PROXY 127.0.0.1:63550 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152213.707 [07740] PROXY 127.0.0.1:63549 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152214.986 [07740] PROXY 127.0.0.1:63580 <- c.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152215.508 [07740] PROXY 127.0.0.1:63579 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152215.522 [07740] PROXY 127.0.0.1:63582 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152215.536 [07740] PROXY 127.0.0.1:63563 <- survey.122.2o7.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152215.704 [07740] PROXY 127.0.0.1:63575 <- metrics.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152216.234 [07740] PROXY 127.0.0.1:63569 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152216.248 [07740] PROXY 127.0.0.1:63592 <- survey.122.2o7.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152216.768 [07740] PROXY 127.0.0.1:63559 <- pubads.g.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152217.062 [07740] PROXY 127.0.0.1:63599 <- l.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152217.592 [07740] PROXY 127.0.0.1:63593 <- pubads.g.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152219.643 [07740] PROXY 127.0.0.1:63591 <- gscounters.us1.gigya.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152225.376 [07740] PROXY 127.0.0.1:63574 <- metrics.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152228.372 [07740] PROXY 127.0.0.1:63588 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152228.527 [07740] PROXY 127.0.0.1:63622 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152229.213 [07740] PROXY 127.0.0.1:63630 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152229.728 [07740] PROXY 127.0.0.1:63631 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152229.742 [07740] PROXY 127.0.0.1:63619 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152229.755 [07740] PROXY 127.0.0.1:63618 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152232.099 [07740] PROXY 127.0.0.1:63637 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152232.115 [07740] PROXY 127.0.0.1:63629 <- avatars-staging.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152232.926 [07740] PROXY 127.0.0.1:63643 <- avatars-staging.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152232.951 [07740] PROXY 127.0.0.1:63623 <- avatars-staging.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152233.644 [07740] PROXY 127.0.0.1:63652 <- avatars-staging.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152234.174 [07740] PROXY 127.0.0.1:63638 <- bootstrap.timeout-0.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152234.486 [07740] PROXY 127.0.0.1:63651 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152234.705 [07740] PROXY 127.0.0.1:63620 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152235.017 [07740] PROXY 127.0.0.1:63660 <- bootstrap.timeout-0.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152235.441 [07740] PROXY 127.0.0.1:63633 <- zor.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152235.704 [07740] PROXY 127.0.0.1:63621 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152236.218 [07740] PROXY 127.0.0.1:63664 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152236.265 [07740] PROXY 127.0.0.1:63681 <- zor.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152238.168 [07740] PROXY 127.0.0.1:63686 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152238.589 [07740] PROXY 127.0.0.1:63644 <- zor.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152238.699 [07740] PROXY 127.0.0.1:63688 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152238.715 [07740] PROXY 127.0.0.1:63657 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152240.383 [07740] PROXY 127.0.0.1:63669 <- zor.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152240.898 [07740] PROXY 127.0.0.1:63701 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152241.413 [07740] PROXY 127.0.0.1:63689 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152241.553 [07740] PROXY 127.0.0.1:63672 <- files.adspdbl.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152241.916 [07740] PROXY 127.0.0.1:63706 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152242.879 [07740] PROXY 127.0.0.1:63707 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152244.024 [07740] PROXY 127.0.0.1:63639 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152245.063 [07740] PROXY 127.0.0.1:63687 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152246.001 [07740] PROXY 127.0.0.1:63727 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152342.799 [07740] PROXY 127.0.0.1:63744 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152344.641 [07740] PROXY 127.0.0.1:63747 <- s.btstatic.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152344.937 [07740] PROXY 127.0.0.1:63745 <- media.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152345.452 [07740] PROXY 127.0.0.1:63750 <- d1w8ihwdzwigdq.cloudfront.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152345.639 [07740] PROXY 127.0.0.1:63753 <- s.btstatic.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152346.622 [07740] PROXY 127.0.0.1:63757 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152346.636 [07740] PROXY 127.0.0.1:63760 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152347.151 [07740] PROXY 127.0.0.1:63754 <- d1w8ihwdzwigdq.cloudfront.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152349.913 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152350.927 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152351.941 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152352.543 [07740] CLI Disconnected - you are now offline.
+20140801 152352.955 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152353.969 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152354.983 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152355.997 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152357.011 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152358.025 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152359.039 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152400.053 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152401.067 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152402.081 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152403.095 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152404.047 [07740] PROXY 127.0.0.1:63759 <- partner.googleadservices.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152404.205 [07740] CLI Connection established.
+20140801 152404.562 [07740] PROXY 127.0.0.1:63762 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152404.577 [07740] PROXY 127.0.0.1:63772 <- survey.122.2o7.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152404.591 [07740] PROXY 127.0.0.1:63775 <- timeoutlondonbanner.mcscdel1.biggroup.co.uk:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152405.357 [07740] PROXY 127.0.0.1:63769 <- decor.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152405.420 [07740] PROXY 127.0.0.1:63783 <- survey.122.2o7.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152406.137 [07740] PROXY 127.0.0.1:63768 <- decor.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152406.649 [07740] PROXY 127.0.0.1:63777 <- s7.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152406.798 [07740] PROXY 127.0.0.1:63782 <- pbs.twimg.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152407.292 [07740] PROXY 127.0.0.1:63781 <- pubads.g.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152408.009 [07740] PROXY 127.0.0.1:63774 <- pbs.twimg.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152408.212 [07740] PROXY 127.0.0.1:63794 <- pubads.g.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152408.761 [07740] PROXY 127.0.0.1:63807 <- ajax.googleapis.com:80 connection error: Unknown error
+20140801 152409.038 [07740] PROXY 127.0.0.1:63815 <- profile.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152409.709 [07740] PROXY 127.0.0.1:63820 <- ajax.googleapis.com:80 connection error: Unknown error
+20140801 152409.868 [07740] PROXY 127.0.0.1:63796 <- static.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152410.702 [07740] PROXY 127.0.0.1:63827 <- static.ak.fbcdn.net:80 connection error: Unknown error
+20140801 152414.904 [07740] PROXY 127.0.0.1:63832 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152415.419 [07740] PROXY 127.0.0.1:63814 <- gscounters.us1.gigya.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152415.433 [07740] PROXY 127.0.0.1:63756 <- ajax.googleapis.com:80 connection error: Unknown error
+20140801 152415.934 [07740] PROXY 127.0.0.1:63795 <- ajax.googleapis.com:80 connection error: Unknown error
+20140801 152415.949 [07740] PROXY 127.0.0.1:63808 <- b.scorecardresearch.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152417.556 [07740] PROXY 127.0.0.1:63833 <- b.scorecardresearch.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152418.859 [07740] PROXY 127.0.0.1:63812 <- pixel.mathtag.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152419.445 [07740] PROXY 127.0.0.1:63838 <- static.media.magnify.net.s3.amazonaws.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152419.460 [07740] PROXY 127.0.0.1:63850 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152419.522 [07740] PROXY 127.0.0.1:63806 <- st.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152420.260 [07740] PROXY 127.0.0.1:63858 <- st.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152420.786 [07740] PROXY 127.0.0.1:63849 <- s3.amazonaws.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152421.644 [07740] PROXY 127.0.0.1:63869 <- s3.amazonaws.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152423.329 [07740] PROXY 127.0.0.1:63856 <- st.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152425.122 [07740] PROXY 127.0.0.1:63857 <- map.tinyurl.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152425.637 [07740] PROXY 127.0.0.1:63861 <- m.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152426.152 [07740] PROXY 127.0.0.1:63865 <- map.tinyurl.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152427.355 [07740] PROXY 127.0.0.1:63860 <- cspix.media6degrees.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152427.909 [07740] PROXY 127.0.0.1:63852 <- su.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152428.679 [07740] PROXY 127.0.0.1:63888 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152429.194 [07740] PROXY 127.0.0.1:63889 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152429.703 [07740] PROXY 127.0.0.1:63884 <- cspix.media6degrees.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152430.972 [07740] PROXY 127.0.0.1:63894 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.047 [07740] PROXY 127.0.0.1:63896 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.062 [07740] PROXY 127.0.0.1:63890 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.086 [07740] PROXY 127.0.0.1:63909 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.187 [07740] PROXY 127.0.0.1:63913 <- static.entstix.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.598 [07740] PROXY 127.0.0.1:63907 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.612 [07740] PROXY 127.0.0.1:63914 <- static.entstix.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.718 [07740] PROXY 127.0.0.1:63917 <- static.entstix.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.734 [07740] PROXY 127.0.0.1:63897 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152433.780 [07740] PROXY 127.0.0.1:63926 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152434.201 [07740] PROXY 127.0.0.1:63911 <- static.entstix.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152434.498 [07740] PROXY 127.0.0.1:63937 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152434.638 [07740] PROXY 127.0.0.1:63939 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152434.732 [07740] PROXY 127.0.0.1:63938 <- maps.gstatic.com:80 connection error: Unknown error
+20140801 152435.153 [07740] PROXY 127.0.0.1:63925 <- seal.globalsign.com:80 connection error: Unknown error
+20140801 152435.543 [07740] PROXY 127.0.0.1:63941 <- static.entstix.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152445.340 [07740] PROXY 127.0.0.1:63908 <- s7.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152449.740 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152450.233 [07740] CLI Disconnected - you are now offline.
+20140801 152450.754 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152451.767 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152452.782 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152453.795 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152454.811 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152455.824 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152456.839 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152457.853 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152458.866 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152459.881 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152500.894 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152501.908 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152502.922 [07740] KGP warning: no keepalive ack for > 5s
+20140801 152504.540 [07740] CLI Connection established.
+20140801 152515.870 [07740] PROXY 127.0.0.1:63916 <- static.entstix.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152515.883 [07740] PROXY 127.0.0.1:63935 <- timeout.entstix.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152517.632 [07740] PROXY 127.0.0.1:63969 <- timeoutlondonbanner.mcscdel1.biggroup.co.uk:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152517.684 [07740] PROXY 127.0.0.1:63967 <- www.googletagservices.com:80 connection error: Unknown error
+20140801 152518.147 [07740] PROXY 127.0.0.1:63968 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152518.742 [07740] PROXY 127.0.0.1:63975 <- www.facebook.com:80 connection error: Unknown error
+20140801 152518.880 [07740] PROXY 127.0.0.1:63978 <- c.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152519.561 [07740] PROXY 127.0.0.1:63974 <- www.facebook.com:80 connection error: Unknown error
+20140801 152519.598 [07740] PROXY 127.0.0.1:63987 <- b.scorecardresearch.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152519.795 [07740] PROXY 127.0.0.1:63990 <- timeoutlondonbanner.mcscdel1.biggroup.co.uk:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152520.315 [07740] PROXY 127.0.0.1:63980 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152520.456 [07740] PROXY 127.0.0.1:63976 <- l.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152520.924 [07740] PROXY 127.0.0.1:63999 <- twitter.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152520.986 [07740] PROXY 127.0.0.1:63996 <- ib.adnxs.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152521.610 [07740] PROXY 127.0.0.1:63977 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152522.827 [07740] PROXY 127.0.0.1:63988 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152529.035 [07740] PROXY 127.0.0.1:64005 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152550.908 [07740] PROXY 127.0.0.1:64004 <- syndication.twitter.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152621.421 [07740] PROXY 127.0.0.1:63989 <- ib.adnxs.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152628.441 [07740] PROXY 127.0.0.1:64025 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152628.956 [07740] PROXY 127.0.0.1:63973 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152703.807 [07740] PROXY 127.0.0.1:64060 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152703.822 [07740] PROXY 127.0.0.1:64063 <- s.thebrighttag.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152703.838 [07740] PROXY 127.0.0.1:64066 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152704.353 [07740] PROXY 127.0.0.1:64064 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152736.349 [07740] PROXY 127.0.0.1:64087 <- metrics.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152737.175 [07740] PROXY 127.0.0.1:64089 <- metrics.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152737.721 [07740] PROXY 127.0.0.1:64091 <- l.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152738.236 [07740] PROXY 127.0.0.1:64092 <- l.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152740.046 [07740] PROXY 127.0.0.1:64061 <- optimized-by.rubiconproject.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152740.888 [07740] PROXY 127.0.0.1:64101 <- optimized-by.rubiconproject.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152742.229 [07740] PROXY 127.0.0.1:64107 <- api.clickmatize.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152742.791 [07740] PROXY 127.0.0.1:64110 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152743.072 [07740] PROXY 127.0.0.1:64116 <- tags.mathtag.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152743.602 [07740] PROXY 127.0.0.1:64115 <- api.clickmatize.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152743.615 [07740] PROXY 127.0.0.1:64097 <- tags.bluekai.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152743.883 [07740] PROXY 127.0.0.1:64099 <- tags.mathtag.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152744.491 [07740] PROXY 127.0.0.1:64127 <- tags.bluekai.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152745.006 [07740] PROXY 127.0.0.1:64117 <- api.clickmatize.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152746.192 [07740] PROXY 127.0.0.1:64133 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152746.254 [07740] PROXY 127.0.0.1:64136 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152746.940 [07740] PROXY 127.0.0.1:64144 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152747.237 [07740] PROXY 127.0.0.1:64129 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152749.630 [07740] PROXY 127.0.0.1:64142 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152750.155 [07740] PROXY 127.0.0.1:64146 <- media.qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152750.172 [07740] PROXY 127.0.0.1:64134 <- metrics.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152750.311 [07740] PROXY 127.0.0.1:64151 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152750.701 [07740] PROXY 127.0.0.1:64145 <- bootstrap.timeout-0.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152751.179 [07740] PROXY 127.0.0.1:64135 <- apis.google.com:80 connection error: Unknown error
+20140801 152751.730 [07740] PROXY 127.0.0.1:64170 <- l.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152751.996 [07740] PROXY 127.0.0.1:64163 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152752.354 [07740] PROXY 127.0.0.1:64175 <- apis.google.com:80 connection error: Unknown error
+20140801 152752.520 [07740] PROXY 127.0.0.1:64166 <- pubads.g.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152752.534 [07740] PROXY 127.0.0.1:64176 <- l.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152753.222 [07740] PROXY 127.0.0.1:64185 <- zor.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152753.665 [07740] PROXY 127.0.0.1:64137 <- bootstrap.timeout-0.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152753.867 [07740] PROXY 127.0.0.1:64156 <- cdn.api.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152754.394 [07740] PROXY 127.0.0.1:64162 <- www.facebook.com:80 connection error: Unknown error
+20140801 152754.475 [07740] PROXY 127.0.0.1:64165 <- bootstrap.timeout-0.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152754.726 [07740] PROXY 127.0.0.1:64202 <- gscounters.us1.gigya.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152754.935 [07740] PROXY 127.0.0.1:64204 <- platform.twitter.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152755.459 [07740] PROXY 127.0.0.1:64192 <- www.facebook.com:80 connection error: Unknown error
+20140801 152755.927 [07740] PROXY 127.0.0.1:64191 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152756.810 [07740] PROXY 127.0.0.1:64187 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152825.941 [07740] PROXY 127.0.0.1:64211 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152827.626 [07740] PROXY 127.0.0.1:64208 <- bootstrap.timeout-0.fyre.co:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152828.437 [07740] PROXY 127.0.0.1:64229 <- qa19.d:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152830.138 [07740] PROXY 127.0.0.1:64233 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152830.288 [07740] PROXY 127.0.0.1:64236 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152830.300 [07740] PROXY 127.0.0.1:64239 <- s.thebrighttag.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152832.072 [07740] PROXY 127.0.0.1:64234 <- www.googletagservices.com:80 connection error: Unknown error
+20140801 152832.212 [07740] PROXY 127.0.0.1:64238 <- timeoutlondonbanner.mcscdel1.biggroup.co.uk:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152833.216 [07740] PROXY 127.0.0.1:64252 <- www.facebook.com:80 connection error: Unknown error
+20140801 152833.866 [07740] PROXY 127.0.0.1:64235 <- l.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152833.883 [07740] PROXY 127.0.0.1:64260 <- www.google.com:80 connection error: Unknown error
+20140801 152834.724 [07740] PROXY 127.0.0.1:64268 <- l.betrad.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152835.410 [07740] PROXY 127.0.0.1:64259 <- s7.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152835.925 [07740] PROXY 127.0.0.1:64237 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152835.925 [07740] PROXY 127.0.0.1:64262 <- www.facebook.com:80 connection error: Unknown error
+20140801 152836.395 [07740] PROXY 127.0.0.1:64276 <- ad.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152836.925 [07740] PROXY 127.0.0.1:64282 <- ajax.googleapis.com:80 connection error: Unknown error
+20140801 152836.925 [07740] PROXY 127.0.0.1:64278 <- timeoutlondonbanner.mcscdel1.biggroup.co.uk:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152837.454 [07740] PROXY 127.0.0.1:64258 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152838.156 [07740] PROXY 127.0.0.1:64290 <- gscounters.us1.gigya.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152838.686 [07740] PROXY 127.0.0.1:64291 <- pagead2.googlesyndication.com:80 connection error: Unknown error
+20140801 152838.811 [07740] PROXY 127.0.0.1:64277 <- st.magnify.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152838.984 [07740] PROXY 127.0.0.1:64301 <- video.ldn.timeout.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152839.341 [07740] PROXY 127.0.0.1:64269 <- ad.doubleclick.net:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152905.378 [07740] PROXY 127.0.0.1:64300 <- syndication.twitter.com:443 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152937.368 [07740] PROXY 127.0.0.1:64283 <- m.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
+20140801 152938.121 [07740] PROXY 127.0.0.1:64306 <- m.addthis.com:80 DNS error: non-recoverable failure in name resolution (-904)
