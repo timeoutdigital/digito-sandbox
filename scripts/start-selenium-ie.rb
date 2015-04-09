@@ -1,0 +1,2 @@
+Dir.chdir '../frameworks/selenium'
+exec 'java -jar selenium-server-standalone-2.44.0.jar -port 4444 -Dwebdriver.ie.driver=C:\Users\kishorey\Documents\Softwares\IEDriverServer_Win32_2.40.0\IEDriverServer.exe"'

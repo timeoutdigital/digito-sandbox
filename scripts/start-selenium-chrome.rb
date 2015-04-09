@@ -1,0 +1,2 @@
+Dir.chdir '../frameworks/selenium'
+exec 'java -jar selenium-server-standalone-2.44.0.jar -port 4444 -Dwebdriver.chrome.driver=C:\Users\kishorey\Documents\Softwares\chromedriver_win32\chromeDriver.exe"'
